@@ -1,1 +1,2 @@
 Saya belajar git
+Ini adalah file 1 untuk belajar git
